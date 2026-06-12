@@ -1,34 +1,34 @@
-<p align="center">
+<h1 align="center">GenLit</h1>
+<h2 align="center">Reformulating Single-Image Relighting as Video Generation</h2>
 
-  <h1 align="center">GenLit: Reformulating Single-Image Relighting as Video Generation
-    <a href='https://dl.acm.org/doi/10.1145/3757377.3763970'>
-    <img src='https://img.shields.io/badge/Paper-ACM-red' alt='PDF'>
-    </a>
-    <a href='https://genlit.is.tue.mpg.de/' style='padding-left: 0.5rem;'>
-    <img src='https://img.shields.io/badge/Project-Page-blue?style=flat&logo=Google%20chrome&logoColor=blue' alt='Project Page'>
-    </a>
-    <a href='https://arxiv.org/abs/2412.11224'>
-    <img src='https://img.shields.io/badge/Arxiv-red' alt='arxiv PDF'>
-    </a>
-    <a href='https://huggingface.co/sbharadwaj/genlit'>
-    <img src='https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Weights-yellow' alt='HF Weights'>
-    </a>
-  </h1>
-  <p align="center">
-    <a href="https://sbharadwajj.github.io/"><strong>Shrisha Bharadwaj*</strong></a>
-    ·
-    <a href="https://havenfeng.github.io/"><strong>Haiwen Feng*</strong></a>
-    ·
-    <a href="https://ps.is.mpg.de/person/gbecherini"><strong>Giorgio Becherini</strong></a>
-    ·
-    <a href="https://vabrevaya.github.io/"><strong>Victoria Fernandez Abrevaya</strong></a>
-    ·
-    <a href="https://ps.is.tuebingen.mpg.de/person/black"><strong>Michael J. Black</strong></a>
-  </p>
-  <h2 align="center">SIGGRAPH Asia Conference Papers 2025</h2>
-  <div align="center">
-  </div>
+<p align="center">
+  <a href="https://dl.acm.org/doi/10.1145/3757377.3763970">
+    <img src="https://img.shields.io/badge/Paper-ACM-red?style=for-the-badge" alt="Paper">
+  </a>
+  <a href="https://genlit.is.tue.mpg.de/">
+    <img src="https://img.shields.io/badge/Project-Page-blue?style=for-the-badge&logo=Google%20chrome&logoColor=white" alt="Project Page">
+  </a>
+  <a href="https://arxiv.org/abs/2412.11224">
+    <img src="https://img.shields.io/badge/arXiv-2412.11224-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv">
+  </a>
+  <a href="https://huggingface.co/sbharadwaj/genlit">
+    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Weights-yellow?style=for-the-badge" alt="HF Weights">
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://sbharadwajj.github.io/"><strong>Shrisha Bharadwaj*</strong></a>
+  ·
+  <a href="https://havenfeng.github.io/"><strong>Haiwen Feng*</strong></a>
+  ·
+  <a href="https://ps.is.mpg.de/person/gbecherini"><strong>Giorgio Becherini</strong></a>
+  ·
+  <a href="https://vabrevaya.github.io/"><strong>Victoria Fernandez Abrevaya</strong></a>
+  ·
+  <a href="https://ps.is.tuebingen.mpg.de/person/black"><strong>Michael J. Black</strong></a>
+</p>
+
+<h3 align="center">SIGGRAPH Asia 2025</h3>
 <p float="center">
   <img src="assets/teaser.gif" width="98%" />
 </p>
