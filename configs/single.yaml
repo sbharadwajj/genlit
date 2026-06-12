@@ -1,0 +1,12 @@
+mode: single
+num_frames: 14
+width: 512
+height: 512
+conditioning_channels: 4
+decode_chunk_size: 8
+mixed_precision: fp16
+num_inference_steps: 50
+pretrained_model_name_or_path: stabilityai/stable-video-diffusion-img2vid
+hf_repo_id: sbharadwaj/genlit
+hf_subfolder: single_object
+default_sequences_file: trajectories/single_object_14frames.npy

@@ -1,0 +1,12 @@
+mode: mit
+num_frames: 14
+width: 768
+height: 512
+conditioning_channels: 2
+decode_chunk_size: 8
+mixed_precision: fp16
+num_inference_steps: 50
+pretrained_model_name_or_path: stabilityai/stable-video-diffusion-img2vid
+hf_repo_id: sbharadwaj/genlit
+hf_subfolder: mit
+default_mit_test_set: trajectories/mit_test_set.npy

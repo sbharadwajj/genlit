@@ -1,0 +1,13 @@
+mode: multi
+num_frames: 25
+width: 640
+height: 448
+conditioning_channels: 5
+motion_bucket_id: 16
+decode_chunk_size: 8
+mixed_precision: fp16
+num_inference_steps: 50
+pretrained_model_name_or_path: stabilityai/stable-video-diffusion-img2vid-xt
+hf_repo_id: sbharadwaj/genlit
+hf_subfolder: multi_object
+default_sequences_file: trajectories/multi_object_25frames.npy
